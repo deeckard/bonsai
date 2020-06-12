@@ -1,16 +1,16 @@
-# README
+# BONSAI
 
-## This is the README for your extension "bonsai"
+![HEADER](./images/HEADER.png)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- Open the Extensions sidebar in VS Code
+- Search for Bonsai
+- Click on Install
+- Open the Command Palette with `Ctrl + Shift + P` or `⇧ ⌘ P`
+- Select `Preferences: Color Theme` and choose the Bonsai color scheme
+- Enjoy!
 
-### For more information
+## Personalization
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+> Work in progress...
