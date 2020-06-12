@@ -6,7 +6,7 @@
 	"repository": {
 		"url": "https://github.com/deeckard/bonsai"
 	},
-	"version": "0.0.1",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
