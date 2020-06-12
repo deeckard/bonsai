@@ -17,6 +17,8 @@
   </a>
 </p>
 
+![SCREEN](./images/SCREEN.png)
+
 ## Installation
 
 - Open the Extensions sidebar in VS Code
