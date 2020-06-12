@@ -1,9 +1,9 @@
 {
 	"name": "bonsai",
 	"displayName": "Bonsai",
-	"description": "A minimal theme",
+	"description": "🌳 A minimal theme",
 	"publisher": "deeckard",
-	"icon": "./images/LOGO.png",
+	"icon": "images/LOGO.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/deeckard/bonsai"
