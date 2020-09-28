@@ -11,7 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/deeckard/bonsai/issues"
 	},
-	"version": "2.0.7",
+	"version": "1.0",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
