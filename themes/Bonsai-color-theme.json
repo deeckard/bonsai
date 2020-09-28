@@ -47,6 +47,7 @@
 		"editorGutter.addedBackground": "#92e78a",
 		"editorGutter.modifiedBackground": "#8abde7",
 		"editorGutter.deletedBackground": "#e78a8a",
+		"input.background": "#090b13",
 		// Others
 		"focusBorder": "#20273b",
 		"foreground": "#c7d5ff99",
@@ -56,6 +57,9 @@
 		"gitDecoration.modifiedResourceForeground": "#8abde7",
 		"gitDecoration.ignoredResourceForeground": "#262E47",
 		"gitDecoration.untrackedResourceForeground": "#9e8ae7",
+		"gitlens.trailingLineForegroundColor": "#a8beff41",
+		"editorWidget.background": "#06070c",
+		"editorWidget.border": "#15182B",
 		// List
 		"list.activeSelectionBackground": "#01030b",
 		"list.activeSelectionForeground": "#C7D5FF",
@@ -73,7 +77,7 @@
 		// Scrollbar
 		"scrollbar.shadow": "#01030b",
 		"scrollbarSlider.activeBackground": "#516399",
-		"scrollbarSlider.background": "#262E47",
+		"scrollbarSlider.background": "#1b2031",
 		"scrollbarSlider.hoverBackground": "#15182B",
 		// Selection
 		"selection.background": "#86A5FF",
