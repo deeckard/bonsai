@@ -27,7 +27,3 @@
 - Open the Command Palette with `Ctrl + Shift + P` or `⇧ ⌘ P`
 - Select `Preferences: Color Theme` and choose the Bonsai color scheme
 - Enjoy!
-
-## Personalization
-
-> Work in progress...
