@@ -1,4 +1,6 @@
-# BONSAI
+### :deciduous_tree: bonsai (deprecated)
+
+bonsai is a minimalist VSCode theme 
 
 ![HEADER](./images/HEADER.png)
 
@@ -19,11 +21,14 @@
 
 ![SCREEN](./images/SCREEN.png)
 
-## Installation
+### warning
+this theme is not supported anymore, but you can still use it.
 
-- Open the Extensions sidebar in VS Code
-- Search for Bonsai
-- Click on Install
-- Open the Command Palette with `Ctrl + Shift + P` or `⇧ ⌘ P`
-- Select `Preferences: Color Theme` and choose the Bonsai color scheme
-- Enjoy!
+### installation
+
+- open the extensions sidebar in VSCode
+- search for Bonsai
+- click on install
+- open the command palette with `Ctrl + Shift + P` or `⇧ ⌘ P`
+- select `Preferences: Color Theme` and choose the Bonsai color scheme
+- enjoy!
